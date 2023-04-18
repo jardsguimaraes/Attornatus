@@ -1,4 +1,4 @@
-##Teste Técnico Back End - Attornatus
+Teste Técnico Back End - Attornatus
 Após executar o projeto, toda documentação pode ser acessar pelos URIs abaixo,
 
 http://localhost:8080/swagger-ui/index.html (HTML)
